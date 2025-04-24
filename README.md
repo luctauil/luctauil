@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 **Mestrando em Ciência da Computação**  
 👨‍🏫 Professor de tecnologia na UNIP e Coderhouse  
-💻 Desenvolvedor Full Stack
+💻 Desenvolvedor Full Stack  
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
 <!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*-->
 ---
