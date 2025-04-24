@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 🎓 **Mestrando em Ciência da Computação**  
 👨‍🏫 Professor de tecnologia na UNIP e Coderhouse  
 💻 Desenvolvedor Full Stack
-<!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*  -->
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
-
+<!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*-->
 ---
 
 ### 🚀 Sobre mim
@@ -49,7 +48,7 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 
 ### 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucastauil/)
-- 🌐 [Site Pessoal / Livro](https://luctauil.github.io/livro_dashboards_com_js/)
+- 🌐 [Site Pessoal / Livro](https://espaco.dev/)
 - 📬 lucastauil@gmail.com
 ---
 
