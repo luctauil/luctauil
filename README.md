@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Olá! Eu sou o Lucas Tauil 👋
 
 🎓 **Mestrando em Ciência da Computação**  
-👨‍🏫 Professor de tecnologia na UNIP e Coderhouse  
+👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse  
 💻 Desenvolvedor Full Stack  
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
 <!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*-->
@@ -48,7 +48,7 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 
 ### 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucastauil/)
-- 🌐 [Site Pessoal / Livro](https://espaco.dev/)
+- 🌐 [Site Pessoal](https://espaco.dev/)
 - 📬 lucastauil@gmail.com
 ---
 
