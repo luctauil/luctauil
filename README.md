@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Olá! Eu sou o Lucas Tauil 👋
 
 🎓 **Mestrando em Ciência da Computação na UNESP Bauru**  
-👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse Brasil 
+👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse Brasil  
 💻 Desenvolvedor Full Stack  
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
 <!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*-->
