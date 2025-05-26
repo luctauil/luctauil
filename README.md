@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Olá! Eu sou o Lucas Tauil 👋
 
-🎓 **Mestrando em Ciência da Computação**  
-👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse  
+🎓 **Mestrando em Ciência da Computação na UNESP Bauru**  
+👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse Brasil 
 💻 Desenvolvedor Full Stack  
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
 <!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*-->
@@ -28,8 +28,8 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 ---
 
 ### 🔧 Tecnologias que uso frequentemente
-- **Frontend:** Vue.js, JavaScript, Bootstrap, Chart.js
-- **Backend:** Laravel, PHP, Flask, Python
+- **Frontend:** JavaScript, Vue.js, Bootstrap, Chart.js
+- **Backend:** Laravel, PHP, C#, Flask, Python
 - **Banco de Dados:** MySQL, SQLServer
 - **DevOps & Outros:** Git, VPS, Linux, Zimbra, Apache
 
