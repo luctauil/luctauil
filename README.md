@@ -29,7 +29,7 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 
 ### 🔧 Tecnologias que uso frequentemente
 - **Frontend:** JavaScript, Vue.js, Bootstrap, Chart.js
-- **Backend:** Laravel, PHP, C#, Flask, Python
+- **Backend:** Laravel, PHP, C#
 - **Banco de Dados:** MySQL, SQLServer
 - **DevOps & Outros:** Git, VPS, Linux, Zimbra, Apache
 
