@@ -1,25 +1,11 @@
-<!--
-**luctauil/luctauil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Olá! Eu sou o Lucas Tauil 👋
 
 🎓 **Mestrando em Ciência da Computação na UNESP Bauru**  
-👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse Brasil  
 💻 Desenvolvedor Full Stack  
+👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse Brasil  
+📘 Autor do livro [Aprenda JavaScript com Dashoboards](https://www.casadocodigo.com.br/products/livro-js-dashboards)
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
-<!--📘 Autor do livro *Crie seus próprios Dashboards interativos com Python e JS*-->
+
 ---
 
 ### 🚀 Sobre mim
@@ -31,7 +17,7 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 - **Frontend:** JavaScript, Vue.js, Bootstrap, Chart.js
 - **Backend:** Laravel, PHP, C#
 - **Banco de Dados:** MySQL, SQLServer
-- **DevOps & Outros:** Git, VPS, Linux, Zimbra, Apache
+- **DevOps & Outros:** Git, Linux, VPS, Zimbra, Apache
 
 ---
 <!-- 
@@ -39,7 +25,8 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 
 | Projeto | Descrição |
 |--------|-----------|
-| [📘 Livro: Dashboards com JS](https://github.com/luctauil/livro_dashboards_com_js) | Repositório com os exemplos do livro |
+| [📘 Livro: Aprenda JavaScript com Dashoboards](https://www.casadocodigo.com.br/products/livro-js-dashboards)
+| [📘 Repositório do Livro](https://github.com/luctauil/livro_dashboards_com_js) | Repositório com os exemplos do livro |
 | [📊 Visualização de Impostos](https://luctauil.github.io/livro_dashboards_com_js/) | Dashboard com dados de arrecadação federal |
 | [⚖️ Simulador de Peticionamento Jurídico](https://github.com/twm-simuladores/) | Simulador web com interface semelhante ao Projudi |
 | [🧪 Escala de Bristol + IA](#) | Estudos e artigos sobre a aplicação de Machine Learning na análise fecal |
