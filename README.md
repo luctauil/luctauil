@@ -35,7 +35,7 @@ Sou desenvolvedor full stack com +15 anos de experiência, apaixonado por ensina
 
 ### 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucastauil/)
-- 🌐 [Site Pessoal](https://espaco.dev/)
+<!-- - 🌐 [Site Pessoal](https://espaco.dev/) -->
 - 📬 lucastauil@gmail.com
 - 🎓 [Currículo Lattes](http://lattes.cnpq.br/9655427420108555)
 ---
