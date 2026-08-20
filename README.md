@@ -2,7 +2,7 @@
 
 🎓 **Mestrando em Ciência da Computação na UNESP Bauru**  
 💻 Desenvolvedor Full Stack  
-👨‍🏫 Professor de tecnologia na UNIP e na Coderhouse Brasil  
+👨‍🏫 Professor de tecnologia na UNIP 
 📘 Autor do livro [Aprenda JavaScript com Dashoboards](https://www.casadocodigo.com.br/products/livro-js-dashboards)  
 🧠 Pesquisador em Inteligência Artificial aplicada à saúde
 
